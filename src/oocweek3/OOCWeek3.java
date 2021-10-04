@@ -21,7 +21,7 @@ public class OOCWeek3 {
         System.out.println("Second change");
         System.out.println("Second change");
         System.out.println("Second change");
-        System.out.println("Second change");
+       //  System.out.println("Second change");
         
     }   
     
